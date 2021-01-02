@@ -4,6 +4,8 @@
 
 #### To run this project, please do the following steps
 
+#### first clone the project with git or download the project
+
 1. create a .env file in root folder with the following code
 
 ```
